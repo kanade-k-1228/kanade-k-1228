@@ -7,20 +7,12 @@
 
 ## Languages and Tools
 
-### Mech
-
-- Soliwo
-
 ### Hardware, Low Layer
 
-- stm
-- systemverilog
-
-<a href="" target="_blank"> <img src="./icons/sv.svg" alt="c" width="40" height="40"/> </a>
-
-- verilog
-- riscv
-
+<a href="" target="_blank"> <img src="./icons/stm.png" alt="stm" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="./icons/sv.svg" alt="SystemVerilog" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="./icons/fpga.png" alt="FPGA" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="./icons/riscv.svg" alt="RISC-V" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="./icons/c.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="./icons/cpp.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.rust-lang.org" target="_blank"> <img src="./icons/rust.svg" alt="rust" width="40" height="40"/> </a>
@@ -46,9 +38,9 @@
 
 ### Application
 
-<a href="https://unity.com/" target="_blank"> <img src="./icons/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank"> <img src="./icons/unity.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="./icons/cs.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank"> <img src="./icons/blender.svg" alt="blender" width="40" height="40"/></a>
+<a href="https://www.blender.org/" target="_blank"> <img src="./icons/blender.png" alt="blender" width="40" height="40"/></a>
 
 
 ### Computational Science
@@ -59,5 +51,5 @@
 
 ### Programing Tools 
 
-- vscode
+<a href="" target="_blank"> <img src="./icons/vscode.png" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.svg" alt="git" width="40" height="40"/> </a>
