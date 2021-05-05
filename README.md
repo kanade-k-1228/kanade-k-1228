@@ -1,5 +1,5 @@
-![](https://komarev.com/ghpvc/?username=kanade-k-1228)
-![](https://img.shields.io/twitter/follow/kanade_k_1228?label=Twitter&logo=twitter&style=flat)
+[![](https://komarev.com/ghpvc/?username=kanade-k-1228)](https://github.com/kanade-k-1228)
+[![](https://img.shields.io/twitter/follow/kanade_k_1228?label=Twitter&logo=twitter&style=flat)](https://twitter.com/kanade_k_1228)
 ![](https://img.shields.io/github/followers/kanade-k-1228?label=follow&logo=github&style=flat)
 
 
