@@ -46,7 +46,7 @@
 ### Computational Science
 
 <a href="https://opencv.org/" target="_blank"> <img src="./icons/opencv.svg" alt="OpenCV" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="./icons/python.svg" alt="Python" width="40" height="40"/> </a>    
+<a href="https://www.python.org" target="_blank"> <img src="./icons/python.png" alt="Python" width="40" height="40"/> </a>    
 
 
 ### Programing Tools 
