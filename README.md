@@ -1,21 +1,28 @@
-<p align="left">
-  <a href="https://github.com/kanade-k-1228/kanade-k-1228/">
-    <img src="https://komarev.com/ghpvc/?username=kanade-k-1228" alt="kanade-k-1228" />
-  </a>
-  <a href="http://twitter.com/kanade_k_1228">
-    <img height="20" src="https://img.shields.io/twitter/follow/kanade_k_1228?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/kanade-k-1228">
-    <img height="20" src="https://img.shields.io/github/followers/kanade-k-1228?label=follow&logo=github&style=flat" />
-  </a>
-</p>
+![](https://komarev.com/ghpvc/?username=kanade-k-1228)
+![](https://img.shields.io/twitter/follow/kanade_k_1228?label=Twitter&logo=twitter&style=flat)
+![](https://img.shields.io/github/followers/kanade-k-1228?label=follow&logo=github&style=flat)
+
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kanade-k-1228&count_private=true&show_icons=true)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kanade-k-1228&layout=compact)
 
 ## Languages and Tools
 
+### Mech
+
+### Hardware
+
 ### Low Layer
+
+systemverilog
+
+verilog
+
+riscv
+
+ia64
+
+
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="./icons/c.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="./icons/cpp.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -35,6 +42,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/js.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html5.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css.svg" alt="css3" width="40" height="40"/> </a>
+
+### Application
+
+### Computational Science
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
