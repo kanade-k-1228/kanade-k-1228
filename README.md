@@ -23,7 +23,7 @@
 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="./icons/c.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="./icons/cpp.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank"> <img src="./icons/rust.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="./icons/arduino.svg" alt="arduino" width="40" height="40"/></a>
 
 
