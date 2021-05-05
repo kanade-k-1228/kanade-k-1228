@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanade-k-1228&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanade-k-1228" />
-</a>
 </div>
