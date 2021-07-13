@@ -5,7 +5,6 @@
 [![](https://img.shields.io/twitter/follow/kanade_k_1228?label=Twitter&logo=twitter&style=flat)](https://twitter.com/kanade_k_1228)
 [![](https://img.shields.io/github/followers/kanade-k-1228?label=follow&logo=github&style=flat)](https://github.com/kanade-k-1228)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kanade-k-1228&count_private=true&show_icons=true)
 
 ## Languages and Tools
 
@@ -55,3 +54,7 @@
 
 <a href="" target="_blank"> <img src="./icons/vscode.png" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.svg" alt="git" width="40" height="40"/> </a>
+
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kanade-k-1228&count_private=true&show_icons=true)
+
