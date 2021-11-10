@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/%E9%80%B2%E6%8D%97-%E3%81%A0%E3%82%81%E3%81%A7%E3%81%99-red)](https://youtu.be/ZXsQAXx_ao0)
 [![](https://komarev.com/ghpvc/?username=kanade-k-1228)](https://github.com/kanade-k-1228)
 [![](https://img.shields.io/twitter/follow/kanade_k_1228?label=Twitter&logo=twitter&style=flat)](https://twitter.com/kanade_k_1228)
-[![](https://img.shields.io/github/followers/kanade-k-1228?label=follow&logo=github&style=flat)](https://github.com/kanade-k-1228)
+[![](https://img.shields.io/github/followers/kanade-k-1228?label=FollowMe!&logo=github&style=flat)](https://github.com/kanade-k-1228)
 
 
 ## Languages and Tools
