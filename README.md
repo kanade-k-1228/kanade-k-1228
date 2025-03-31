@@ -1,3 +1,5 @@
+[![Kanade's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanade-k-1228)](https://github.com/anuraghazra/github-readme-stats)
+
 [![](https://img.shields.io/badge/Website-Here!-orange)](https://kanade-k-1228.github.io/)
 [![](https://img.shields.io/badge/%E9%80%B2%E6%8D%97-%E3%81%A0%E3%82%81%E3%81%A7%E3%81%99-red)](https://youtu.be/ZXsQAXx_ao0)
 [![](https://komarev.com/ghpvc/?username=kanade-k-1228)](https://github.com/kanade-k-1228)
