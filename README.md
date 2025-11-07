@@ -1,35 +1,67 @@
-[![Kanade's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanade-k-1228&count_private=true&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/kanade-k-1228#gh-dark-mode-only)
-[![Kanade's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanade-k-1228&count_private=true&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/kanade-k-1228#gh-light-mode-only)
+<table>
+<tr>
+<td valign="top" width="60%">
 
-[![](https://img.shields.io/badge/Website-Here!-orange)](https://kanade-k-1228.github.io/)
-[![](https://img.shields.io/badge/%E9%80%B2%E6%8D%97-%E3%81%A0%E3%82%81%E3%81%A7%E3%81%99-red)](https://youtu.be/ZXsQAXx_ao0)
-[![](https://komarev.com/ghpvc/?username=kanade-k-1228)](https://github.com/kanade-k-1228)
-[![](https://img.shields.io/twitter/follow/kanade_k_1228?label=Twitter&logo=twitter&style=social)](https://twitter.com/kanade_k_1228)
-[![](https://img.shields.io/github/followers/kanade-k-1228?label=kanade-k-1228&logo=github&style=social)](https://github.com/kanade-k-1228)
+私はユーザ体験を重視したアプリケーション、開発者体験を重視したライブラリやツールの開発を得意とするエンジニアです。
 
-### Hardware, Low Layer
+電子回路や半導体といったハードウェアから、システムソフトウェア、アプリケーションなどの多彩な技術スタックを、ユーザ目線でトップダウンに設計・実装することができます。
 
-<a href="" target="_blank"> <img src="./icons/stm.png" alt="stm" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="./icons/sv.svg" alt="SystemVerilog" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="./icons/fpga.png" alt="FPGA" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="./icons/riscv.svg" alt="RISC-V" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="./icons/c.svg" alt="C" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="./icons/cpp.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank"> <img src="./icons/rust.svg" alt="Rust" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="./icons/arduino.svg" alt="Arduino" width="40" height="40"/></a>
+### 🎯 Focus Areas
 
-### Server, Back End
+- **ユーザ体験** - 直感的で使いやすいアプリケーション設計
+- **開発者体験** - 効率的な開発を支援するツール・ライブラリ開発
+- **フルスタック** - ハードウェアからアプリケーションまでの幅広い技術
 
-<a href="https://www.linux.org/" target="_blank"> <img src="./icons/linux.svg" alt="Linux" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="./icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="./icons/docker.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://graphql.org" target="_blank"> <img src="./icons/graphql.svg" alt="graphql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="./icons/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+</td>
+<td valign="top" width="40%">
 
-### Front End
+### 📫 Connect with Me
 
-<a href="https://reactjs.org/" target="_blank"> <img src="./icons/react.svg" alt="React" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icons/ts.svg" alt="TypeScript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/js.svg" alt="JavaScript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html.svg" alt="HTML" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="./icons/css.svg" alt="CSS" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://x.com/kanade_k_1228" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/%E6%B6%BC%E4%BB%8B-%E5%A4%AA%E7%94%B0-753170191" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanade-k-1228&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+</td>
+</tr>
+</table>
+
+## 💻 Web Applications
+
+Web技術はユーザに直観的な体験を提供するためには最も強力な技術です。
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,graphql,rust,deno" alt="Web Technologies" />
+</p>
+
+**Frontend** : フロントエンドは **React** と **Tailwind CSS** を主に使用しています。
+
+**Backend** : サーバ側の実装は **Rust** か **Deno** を使用します。またAPIには  **GraphQL** を使用することが多いです。
+
+## ⚡ Hardware & Firmware
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp" alt="Hardware & Firmware" />
+</p>
+
+## 🛠️ Developer Experience
+
+開発体験を向上させるための環境の整備も行います。
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,github,vscode,pnpm" alt="Developer Tools" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kanade-k-1228" alt="Profile Views" />
+</p>
