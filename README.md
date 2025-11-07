@@ -2,13 +2,21 @@
 <tr>
 <td valign="top" width="60%">
 
+I’m an engineer passionate about building applications with great user experience and tools that empower developers, designing systems top-down across hardware, software, and everything in between.
+
 私はユーザ体験を重視したアプリケーション、開発者体験を重視したライブラリやツールの開発を得意とするエンジニアです。電子回路や半導体といったハードウェアから、システムソフトウェア、アプリケーションなどの多彩な技術スタックを用いて、ユーザと開発者の双方にとって良いシステムをトップダウンに設計・実装します。
 
-### 🎯 Focus Areas
+### 🎯 My Policy
 
-- **ユーザ体験** - 直感的で使いやすいアプリケーション設計
-- **開発者体験** - 効率的な開発を支援するツール・ライブラリ開発
-- **フルスタック** - ハードウェアからアプリケーションまでの幅広い技術
+1. **Keep It Simple** : Making things simple solves many problems. It benefits both users and developers.
+2. **Think from a Bird’s-Eye View** : Don’t rely on ad-hoc local fixes to solve a problem. Always look at the whole picture and face the essence of the issue.
+3. **Follow the Standards** : Aligning with existing standards reduces cognitive load for both users and developers.
+
+### 🎯 開発の原則
+
+1. **シンプルが一番** : シンプルにすることは多くの問題を簡単にします。ユーザと開発者の双方にとって良いことです。
+2. **俯瞰的に考える** : ある問題を解決するために、局所的なアドホックな対応をしてはいけません。全体を俯瞰して、問題の本質を考えることから逃げてはいけません。
+3. **標準に合わせる** : 世の中の標準には合わせるといいでしょう。ユーザと開発者の認知負荷を軽減することができます。
 
 </td>
 <td valign="top" width="40%">
